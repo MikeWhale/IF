@@ -1,0 +1,9 @@
+d:\users\user\documents\visual studio 2015\Projects\Practise1\Practise1\bin\Debug\Practise1.exe.config
+D:\Users\USER\Documents\Visual Studio 2015\Projects\Practise1\Practise1\bin\Debug\Practise1.exe
+D:\Users\USER\Documents\Visual Studio 2015\Projects\Practise1\Practise1\bin\Debug\Practise1.pdb
+D:\Users\USER\Documents\Visual Studio 2015\Projects\Practise1\Practise1\obj\Debug\Practise1.csprojResolveAssemblyReference.cache
+D:\Users\USER\Documents\Visual Studio 2015\Projects\Practise1\Practise1\obj\Debug\Practise1.exe
+D:\Users\USER\Documents\Visual Studio 2015\Projects\Practise1\Practise1\obj\Debug\Practise1.pdb
+C:\Users\Michael\Desktop\IP\Practise1\Practise1\bin\Debug\Practise1.exe.config
+C:\Users\Michael\Desktop\IP\Practise1\Practise1\obj\Debug\Practise1.exe
+C:\Users\Michael\Desktop\IP\Practise1\Practise1\obj\Debug\Practise1.pdb
